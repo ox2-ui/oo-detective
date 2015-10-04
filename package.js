@@ -1,6 +1,6 @@
 Package.describe({
   name: 'ox2:detective',
-  summary: 'Compatibility detections',
+  summary: 'TESTING_DO_NOT_USE  Compatibility detections',
   version: '1.0.0',
   git: ' /* Fill me in! */ '
 });
